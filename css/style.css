@@ -1,0 +1,32 @@
+.banner {
+  background: url(https://i.postimg.cc/T1y8KBCt/Banner.jpg) no-repeat center
+    center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: white;
+}
+
+.lingkaran {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  color: white;
+  background-color: #dc3545;
+}
+
+.lingkaran i {
+  position: relative;
+  top: 35px;
+}
+
+.kontak {
+  background: url("https://i.postimg.cc/QVGXhXhQ/Banner-Kontak.jpg") no-repeat
+    center center;
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: white;
+}
